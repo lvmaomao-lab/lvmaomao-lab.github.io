@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>photo</title>
+    <url>/2021/03/05/photo/</url>
+    <content><![CDATA[<p><img src="/2021/03/05/photo/c++_work\hexo\source_posts\photo\图2.jpg" alt="121211"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>newpage</title>
+    <url>/2021/03/05/newpage/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my_first-blog</title>
+    <url>/2021/03/04/my-first-blog/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>create</title>
     <url>/2021/03/04/create/</url>
-    <content><![CDATA[<p><img src="/2021/03/04/create/c++_work\hexo\source_posts\create\图2.jpg"></p>
+    <content><![CDATA[<p><img src="/images/2.png" alt="Lena"></p>
 ]]></content>
       <categories>
         <category>game</category>
@@ -31,22 +47,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>my_first-blog</title>
-    <url>/2021/03/04/my-first-blog/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>newpage</title>
-    <url>/2021/03/05/newpage/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>photo</title>
-    <url>/2021/03/05/photo/</url>
-    <content><![CDATA[<p><img src="/2021/03/05/photo/c++_work\hexo\source_posts\photo\图2.jpg" alt="121211"></p>
 ]]></content>
   </entry>
 </search>
