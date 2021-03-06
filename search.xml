@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>newpage</title>
+    <url>/2021/03/05/newpage/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>create</title>
+    <url>/2021/03/04/create/</url>
+    <content><![CDATA[<p><img src="/images/2.jpg"></p>
+]]></content>
+      <categories>
+        <category>game</category>
+      </categories>
+      <tags>
+        <tag>读书笔记</tag>
+        <tag>解题报告</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/03/04/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -21,17 +39,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>photo</title>
-    <url>/2021/03/05/photo/</url>
-    <content><![CDATA[<p>111111111111111111111111</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>newpage</title>
-    <url>/2021/03/05/newpage/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>my_first-blog</title>
     <url>/2021/03/04/my-first-blog/</url>
     <content><![CDATA[]]></content>
@@ -40,16 +47,11 @@
       </tags>
   </entry>
   <entry>
-    <title>create</title>
-    <url>/2021/03/04/create/</url>
-    <content><![CDATA[<p><img src="/images/2.png" alt="Lena"></p>
+    <title>photo</title>
+    <url>/2021/03/05/photo/</url>
+    <content><![CDATA[<p>111111111111111111111111</p>
+<p><img src="/images/2.jpg"></p>
+<p><img src="/.com//photo/2.jpg"></p>
 ]]></content>
-      <categories>
-        <category>game</category>
-      </categories>
-      <tags>
-        <tag>读书笔记</tag>
-        <tag>解题报告</tag>
-      </tags>
   </entry>
 </search>
