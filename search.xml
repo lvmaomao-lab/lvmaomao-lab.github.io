@@ -4,7 +4,7 @@
     <title>Hello World</title>
     <url>/2021/03/04/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!--more--&gt;</span><br></pre></td></tr></table></figure>
+<span id="more"></span>
 
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -21,15 +21,24 @@
 ]]></content>
   </entry>
   <entry>
-    <title>my_first-blog</title>
-    <url>/2021/03/04/my-first-blog/</url>
+    <title>photo</title>
+    <url>/2021/03/05/photo/</url>
+    <content><![CDATA[<p>111111111111111111111111</p>
+<p><img src="/.com//c++_work\hexo\source_posts\photo\图2.jpg" alt="121211"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>newpage</title>
+    <url>/2021/03/05/newpage/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>photo</title>
-    <url>/2021/03/05/photo/</url>
-    <content><![CDATA[<p><img src="/.com//c++_work\hexo\source_posts\photo\图2.jpg" alt="121211"></p>
-]]></content>
+    <title>my_first-blog</title>
+    <url>/2021/03/04/my-first-blog/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>111</tag>
+      </tags>
   </entry>
   <entry>
     <title>create</title>
@@ -43,10 +52,5 @@
         <tag>读书笔记</tag>
         <tag>解题报告</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>newpage</title>
-    <url>/2021/03/05/newpage/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
